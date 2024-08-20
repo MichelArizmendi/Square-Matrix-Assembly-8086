@@ -1,0 +1,1 @@
+This was a school project for the low-level programming language course. The objective was to solve a 3x3 matrix with values entered via the keyboard. I utilized interrupts such as int 21h and int 10h along with their respective functions. The results of the final operations were stored in the CX register in hexadecimal. This project was completed in 2023.
